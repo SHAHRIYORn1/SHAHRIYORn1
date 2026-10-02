@@ -201,32 +201,7 @@ A school project idea to replace paper-based library records with a digital syst
 
 ---
 
-## 🗓️ 30-Day Coding Challenge
 
-I'm doing a **30-day HTML / CSS / JavaScript challenge** with roughly one task per day. The point is to practice consistently, build small projects, and learn by doing instead of only watching tutorials.
-
-<div align="center">
-
-| Day | Project |
-|:---:|:---|
-| 1 | Interactive Profile Card |
-| 7 | Random Quotes |
-| 10 | Todo Website |
-| 11 | Password Generator |
-| 12 | Calculator |
-
-*Challenge in progress. This list shows the tasks completed so far.*
-
-</div>
-
-**Practice areas:** arrays · objects · functions · loops · DOM · events · API requests · localStorage · asynchronous JavaScript
-
-**Personal practice results** *(not official certifications)*: JavaScript course test **85%** · frontend skills test **34/40 (85%)**
-
-**Strong in:** Loops, Flexbox, Arrays, Animation, Grid, Position, Functions, Box Model, Responsive Design, Objects, SOLID
-**Working on improving:** CSS Selectors, Variables, Error Handling, OOP
-
----
 
 ## 📊 GitHub Statistics
 
