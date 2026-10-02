@@ -1,188 +1,128 @@
-<div align="center">
+# Standard Readme
 
-# 👋 Hi, I'm Shahriyor Iskandarov
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-### 🚀 Full-Stack Developer | 💻 Web Developer | 🧠 Problem Solver
+A standard style for README files
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New+%F0%9F%9A%80" />
+Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
 
-<br>
+This repository contains:
 
-<img src="https://komarev.com/ghpvc/?username=SHAHRIYORn1&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS">
+1. [The specification](spec.md) for how a standard README should look.
+2. A link to [a linter](https://github.com/RichardLitt/standard-readme-preset) you can use to keep your README maintained ([work in progress](https://github.com/RichardLitt/standard-readme/issues/5)).
+3. A link to [a generator](https://github.com/RichardLitt/generator-standard-readme) you can use to create standard READMEs.
+4. [A badge](#badge) to point to this spec.
+5. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
 
-<br><br>
+Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
 
-<a href="https://github.com/SHAHRIYORn1">
-<img src="https://img.shields.io/github/followers/SHAHRIYORn1?style=for-the-badge&color=00f7ff&labelColor=0d1117&label=FOLLOWERS">
-</a>
 
-<a href="https://github.com/SHAHRIYORn1?tab=repositories">
-<img src="https://img.shields.io/github/stars/SHAHRIYORn1?style=for-the-badge&color=00f7ff&labelColor=0d1117&label=STARS">
-</a>
+## Table of Contents
 
-</div>
+- [Standard Readme](#standard-readme)
+	- [Table of Contents](#table-of-contents)
+	- [Background](#background)
+	- [Install](#install)
+	- [Usage](#usage)
+		- [Generator](#generator)
+	- [Badge](#badge)
+	- [Example READMEs](#example-readmes)
+	- [Related Efforts](#related-efforts)
+	- [Maintainers](#maintainers)
+	- [Contributing](#contributing)
+		- [Contributors](#contributors)
+	- [License](#license)
 
----
+## Background
 
-# 🧑‍💻 About Me
+Standard Readme started with the issue originally posed by [@maxogden](https://github.com/maxogden) over at [feross/standard](https://github.com/feross/standard) in [this issue](https://github.com/feross/standard/issues/141), about whether or not a tool to standardize readmes would be useful. A lot of that discussion ended up in [zcei's standard-readme](https://github.com/zcei/standard-readme/issues/1) repository. While working on maintaining the [IPFS](https://github.com/ipfs) repositories, I needed a way to standardize Readmes across that organization. This specification started as a result of that.
 
-```javascript
-const shahriyor = {
-    name: "Shahriyor Iskandarov",
-    username: "SHAHRIYORn1",
-    role: "Full-Stack Developer",
-    location: "Uzbekistan 🇺🇿",
+> Your documentation is complete when someone can use your module without ever
+having to look at its code. This is very important. This makes it possible for
+you to separate your module's documented interface from its internal
+implementation (guts). This is good because it means that you are free to
+change the module's internals as long as the interface remains the same.
 
-    currentlyLearning: [
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Python",
-        "Backend Development"
-    ],
+> Remember: the documentation, not the code, defines what a module does.
 
-    interests: [
-        "Web Development",
-        "Open Source",
-        "Clean Code",
-        "Real-World Projects"
-    ],
+~ [Ken Williams, Perl Hackers](http://mathforum.org/ken/perl_modules.html#document)
 
-    goal: "Become a Professional Full-Stack Developer 🚀"
-};
+Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
 
-⚡ Tech Stack
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,python" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=postgresql,sqlite" /> </p>
-🛠️ Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> </p>
-🚀 What I'm Working On
-🌐 Modern Web Applications
-⚛️ React Projects
-🟢 Node.js Backend
-🐍 Python Development
-🗄️ Database Projects
-🚀 Full-Stack Applications
+By having a standard, users can spend less time searching for the information they want. They can also build tools to gather search terms from descriptions, to automatically run example code, to check licensing, and so on.
 
-📊 GitHub Statistics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAHRIYORn1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHRIYORn1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&langs_count=8" /> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=SHAHRIYORn1&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=FFFFFF" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHRIYORn1&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" /> </div>
-💻 Featured Projects
-<table> <tr> <td width="50%">
-🎨 Colors Website
-A simple and modern web project.
+The goals for this repository are:
 
-Tech Stack
+1. A well defined **specification**. This can be found in the [Spec document](spec.md). It is a constant work in progress; please open issues to discuss changes.
+2. **An example README**. This Readme is fully standard-readme compliant, and there are more examples in the `example-readmes` folder.
+3. A **linter** that can be used to look at errors in a given Readme. Please refer to the [tracking issue](https://github.com/RichardLitt/standard-readme/issues/5).
+4. A **generator** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
+5. A **compliant badge** for users. See [the badge](#badge).
 
-HTML CSS
+## Install
 
-<a href="https://github.com/SHAHRIYORn1/Colors-Website"> View Project → </a> </td> <td width="50%">
-⚡ RealApp
-JavaScript based application.
+You do not need to install anything to follow the specification. However, you can use [the preset](https://github.com/RichardLitt/standard-readme-preset) or [the generator](https://github.com/RichardLitt/generator-standard-readme) to work with README files.
 
-Tech Stack
+If you want to print out the spec, this project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
-JavaScript
+```sh
+$ npm install --global standard-readme-spec
+```
 
-<a href="https://github.com/SHAHRIYORn1/RealApp"> View Project → </a> </td> </tr> <tr> <td width="50%">
-🎯 Amaliy-Mashq
-Frontend practice project.
+## Usage
 
-Tech Stack
+This is only a documentation package. You can print out [spec.md](spec.md) to your console:
 
-CSS
+```sh
+$ standard-readme
+# Prints out the standard-readme spec
+```
 
-<a href="https://github.com/SHAHRIYORn1/Amaliy-Mashq-"> View Project → </a> </td> <td width="50%">
-📱 SQLite2
-Database related project.
+### Generator
 
-Tech Stack
+To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
 
-Kotlin SQLite
+## Badge
 
-<a href="https://github.com/SHAHRIYORn1/SqlLite2"> View Project → </a> </td> </tr> <tr> <td width="50%">
-🧩 Item Problem
-Programming practice project.
+If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
 
-Tech Stack
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Kotlin
+This badge uses Shields.io, a popular service for generating customizable badges for GitHub projects and documentation.
 
-<a href="https://github.com/SHAHRIYORn1/itemproblem"> View Project → </a> </td> <td width="50%">
-🚀 11S
-Programming project.
+It is generally recommended to place badges near the top of your README so that important project information is immediately visible to readers. Avoid adding too many badges, as excessive badges can make a README look cluttered and reduce readability.
 
-Tech Stack
+To add in Markdown format, use this code:
 
-Kotlin
+```
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+```
 
-<a href="https://github.com/SHAHRIYORn1/11S"> View Project → </a> </td> </tr> </table>
-🎯 2026 Goals
-████████████████████░░░░  Learn Full-Stack Development
+## Example READMEs
 
-██████████████████░░░░░░  Build Real Projects
+To see how the specification has been applied, see the [example-readmes](example-readmes/).
 
-████████████████░░░░░░░░  Master React
+## Related Efforts
 
-██████████████░░░░░░░░░░  Improve Node.js
+- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
+- [open-source-template](https://github.com/davidbgk/open-source-template/) - A README template to encourage open-source contributions.
 
-████████████░░░░░░░░░░░░  Learn Advanced Backend
+## Maintainers
 
-██████████░░░░░░░░░░░░░░  Open Source
+[@RichardLitt](https://github.com/RichardLitt).
 
-My Goals
-🚀 Build real-world applications
+## Contributing
 
-⚛️ Master React
+Feel free to dive in! [Open an issue](https://github.com/RichardLitt/standard-readme/issues/new) or submit PRs.
 
-🟢 Improve Node.js
+Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
-🐍 Improve Python
+### Contributors
 
-🗄️ Learn advanced PostgreSQL
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
-🔥 Write better and cleaner code
 
-🌎 Contribute to Open Source
+## License
 
-💼 Become a professional Full-Stack Developer
-
-🧠 Currently Learning
-<div align="center">
-Technology	Status
-JavaScript	🔥 Learning
-React	🚀 Learning
-Node.js	🚀 Learning
-Python	📚 Learning
-PostgreSQL	📚 Learning
-TypeScript	📚 Learning
-
-</div>
-💡 Developer Mindset
-┌─────────────────────────────────────┐
-│                                     │
-│   CODE       →       LEARN          │
-│                                     │
-│   LEARN      →       BUILD          │
-│                                     │
-│   BUILD      →       IMPROVE        │
-│                                     │
-│   IMPROVE    →       REPEAT         │
-│                                     │
-└─────────────────────────────────────┘
-
-"Every expert was once a beginner."
-
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/SHAHRIYORn1"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
-<div align="center">
-🚀 Thanks for visiting my profile!
-💻 Build. Learn. Create. Repeat.
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=footer"/> </div> ```
+[MIT](LICENSE) © Richard Littauer
