@@ -1,128 +1,185 @@
-# Standard Readme
+# 👋 Hi, I'm Shahriyor Iskandarov
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+### 🚀 Frontend Developer | React Learner | Future Full-Stack Developer
 
-A standard style for README files
+Hey there! 👋
 
-Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Standardizing how you write your README makes creating and maintaining your READMEs easier. Great documentation takes work!
+I'm **Shahriyor**, a frontend developer from Uzbekistan who enjoys building modern, responsive and useful web applications.
 
-This repository contains:
+I'm currently focused on improving my **JavaScript and React** skills and working toward becoming a **Full-Stack Developer**.
 
-1. [The specification](spec.md) for how a standard README should look.
-2. A link to [a linter](https://github.com/RichardLitt/standard-readme-preset) you can use to keep your README maintained ([work in progress](https://github.com/RichardLitt/standard-readme/issues/5)).
-3. A link to [a generator](https://github.com/RichardLitt/generator-standard-readme) you can use to create standard READMEs.
-4. [A badge](#badge) to point to this spec.
-5. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
+---
 
-Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
+## 🧑‍💻 About Me
 
+- 🚀 Currently learning **React.js**
+- 📚 Improving my **JavaScript** skills
+- 🎨 Building responsive interfaces with **HTML & CSS**
+- ⚛️ Working with **React, Components, Hooks and Context**
+- 🔥 Practicing by building real projects
+- 🧠 Learning algorithms, arrays, objects, functions and loops
+- 💻 Interested in becoming a **Full-Stack Developer**
+- 🌱 Always trying to learn something new
+- 🇺🇿 Based in Uzbekistan
 
-## Table of Contents
+---
 
-- [Standard Readme](#standard-readme)
-	- [Table of Contents](#table-of-contents)
-	- [Background](#background)
-	- [Install](#install)
-	- [Usage](#usage)
-		- [Generator](#generator)
-	- [Badge](#badge)
-	- [Example READMEs](#example-readmes)
-	- [Related Efforts](#related-efforts)
-	- [Maintainers](#maintainers)
-	- [Contributing](#contributing)
-		- [Contributors](#contributors)
-	- [License](#license)
+## 🛠️ Technology Stack
 
-## Background
+### Frontend
 
-Standard Readme started with the issue originally posed by [@maxogden](https://github.com/maxogden) over at [feross/standard](https://github.com/feross/standard) in [this issue](https://github.com/feross/standard/issues/141), about whether or not a tool to standardize readmes would be useful. A lot of that discussion ended up in [zcei's standard-readme](https://github.com/zcei/standard-readme/issues/1) repository. While working on maintaining the [IPFS](https://github.com/ipfs) repositories, I needed a way to standardize Readmes across that organization. This specification started as a result of that.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-> Your documentation is complete when someone can use your module without ever
-having to look at its code. This is very important. This makes it possible for
-you to separate your module's documented interface from its internal
-implementation (guts). This is good because it means that you are free to
-change the module's internals as long as the interface remains the same.
+### Tools
 
-> Remember: the documentation, not the code, defines what a module does.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-~ [Ken Williams, Perl Hackers](http://mathforum.org/ken/perl_modules.html#document)
+---
 
-Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
+## ⚛️ React
 
-By having a standard, users can spend less time searching for the information they want. They can also build tools to gather search terms from descriptions, to automatically run example code, to check licensing, and so on.
+I'm currently focusing on:
 
-The goals for this repository are:
+- Components
+- Props
+- State
+- Events
+- Hooks
+- `useState`
+- `useEffect`
+- Context API
+- React Router
+- API integration
+- Local Storage
+- Reusable components
+- Project structure
 
-1. A well defined **specification**. This can be found in the [Spec document](spec.md). It is a constant work in progress; please open issues to discuss changes.
-2. **An example README**. This Readme is fully standard-readme compliant, and there are more examples in the `example-readmes` folder.
-3. A **linter** that can be used to look at errors in a given Readme. Please refer to the [tracking issue](https://github.com/RichardLitt/standard-readme/issues/5).
-4. A **generator** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
-5. A **compliant badge** for users. See [the badge](#badge).
+---
 
-## Install
+## 🧠 JavaScript
 
-You do not need to install anything to follow the specification. However, you can use [the preset](https://github.com/RichardLitt/standard-readme-preset) or [the generator](https://github.com/RichardLitt/generator-standard-readme) to work with README files.
+Currently practicing:
 
-If you want to print out the spec, this project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
+- Variables
+- Data Types
+- Conditions
+- Loops
+- Functions
+- Arrays
+- Objects
+- DOM
+- Events
+- `map()`
+- `filter()`
+- `find()`
+- `reduce()`
+- `forEach()`
+- `for...of`
+- `for...in`
+- Async / Await
+- Fetch API
+- Local Storage
+- Error handling
 
-```sh
-$ npm install --global standard-readme-spec
-```
+---
 
-## Usage
+## 🚀 Featured Project
 
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
+### 🍳 Retseplar Dunyosi
 
-```sh
-$ standard-readme
-# Prints out the standard-readme spec
-```
+A React-based recipe application designed to help people decide what to cook based on the ingredients they already have.
 
-### Generator
+### Features
 
-To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
+- 🤖 AI-powered recipe suggestions
+- 🥕 Ingredient-based recommendations
+- ❤️ Favorite recipes
+- 🛒 Required ingredients
+- 👨‍🍳 Step-by-step cooking instructions
+- 📱 Responsive design
+- ⚛️ Built with React
 
-## Badge
+**Goal:** Make cooking easier by answering one simple question:
 
-If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
+> "What should I cook today?"
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+---
 
-This badge uses Shields.io, a popular service for generating customizable badges for GitHub projects and documentation.
+## 📚 What I'm Building
 
-It is generally recommended to place badges near the top of your README so that important project information is immediately visible to readers. Avoid adding too many badges, as excessive badges can make a README look cluttered and reduce readability.
+I'm learning by creating real projects instead of only watching tutorials.
 
-To add in Markdown format, use this code:
+Some of my practice projects include:
 
-```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-```
+- 👤 Interactive Profile Card
+- 💬 Random Quote Generator
+- ✅ Todo Application
+- 🔐 Password Generator
+- 🧮 Calculator
+- 🍳 Recipe Application
+- 📚 Library Management System
+- 🌐 Personal Portfolio
 
-## Example READMEs
+---
 
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
+## 📈 My Learning Journey
 
-## Related Efforts
+```text
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+React
+  ↓
+Advanced React
+  ↓
+Backend
+  ↓
+Full-Stack Developer 🚀
+🎯 Current Goals
+ Become confident with JavaScript
+ Master React
+ Build larger React applications
+ Learn TypeScript
+ Learn Node.js
+ Learn Express.js
+ Learn databases
+ Learn authentication
+ Build full-stack applications
+ Become a Full-Stack Developer
+📊 GitHub Stats
 
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
-- [open-source-template](https://github.com/davidbgk/open-source-template/) - A README template to encourage open-source contributions.
+🔥 Contribution Streak
 
-## Maintainers
+🧩 30 Days Coding Challenge
 
-[@RichardLitt](https://github.com/RichardLitt).
+I'm also practicing frontend development through a 30-day coding challenge.
 
-## Contributing
+Day 01  → Interactive Profile Card
+Day 07  → Random Quote Generator
+Day 10  → Todo Application
+Day 11  → Password Generator
+Day 12  → Calculator
+...
 
-Feel free to dive in! [Open an issue](https://github.com/RichardLitt/standard-readme/issues/new) or submit PRs.
+The goal is simple:
 
-Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
+Code every day → Build projects → Learn from mistakes → Improve.
 
-### Contributors
+💡 My Developer Mindset
 
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+Learn → Practice → Build → Break → Debug → Improve → Repeat 🔁
 
+I believe the best way to learn programming is by actually building things.
 
-## License
+📫 Connect With Me
 
-[MIT](LICENSE) © Richard Littauer
+🚀 Thanks for visiting my profile!
+console.log("Keep coding 🚀");
