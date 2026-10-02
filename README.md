@@ -20,7 +20,7 @@
   <a href="https://github.com/SHAHRIYORn1?tab=repositories">
     <img src="https://img.shields.io/badge/View%20Projects-00f0ff?style=for-the-badge&logo=githubactions&logoColor=000000" alt="View Projects" />
   </a>
-  <a href="#-learning-roadmap">
+  <a href="#learning-roadmap">
     <img src="https://img.shields.io/badge/My%20Learning%20Journey-ff4fd8?style=for-the-badge&logo=rocket&logoColor=000000" alt="My Learning Journey" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f6feb&height=40&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&fontAlign=8" alt="About Me" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1f6feb,100:000000&height=50&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="About Me" width="100%" />
 
 Hi, I'm **Shahriyor Iskandarov**, but you can call me **Shaha**. I'm a developer from **Uzbekistan** who is actively learning and building projects. My goal is to become a **Full-Stack Developer**, and right now I'm focused on **Frontend Development**, especially **React.js**.
 
@@ -45,7 +45,7 @@ I learn by doing: small exercises, real projects, debugging, and trying things o
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00f0ff&height=40&section=header&text=Current%20Focus&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Current Focus" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f0ff,100:000000&height=50&section=header&text=Current%20Focus&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Current Focus" width="100%" />
 
 - ⚛️ Learning **React**: components, props, state, hooks, Context API, React Router
 - 🟨 Strengthening **JavaScript fundamentals** through projects and exercises
@@ -54,7 +54,7 @@ I learn by doing: small exercises, real projects, debugging, and trying things o
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff4fd8&height=40&section=header&text=Technology%20Stack&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Technology Stack" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff4fd8,100:000000&height=50&section=header&text=Technology%20Stack&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Technology Stack" width="100%" />
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I learn by doing: small exercises, real projects, debugging, and trying things o
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39ff14&height=40&section=header&text=Skills&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Skills" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=50&section=header&text=Skills&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Skills" width="100%" />
 
 <details open>
 <summary><b>🌐 HTML & CSS</b></summary>
@@ -114,7 +114,8 @@ I learn by doing: small exercises, real projects, debugging, and trying things o
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8957e5&height=40&section=header&text=Learning%20Roadmap&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Learning Roadmap" width="100%" />
+<a id="learning-roadmap"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8957e5,100:000000&height=50&section=header&text=Learning%20Roadmap&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Learning Roadmap" width="100%" />
 
 <div align="center">
 
@@ -145,7 +146,7 @@ HTML → CSS → JavaScript → React → Advanced React → TypeScript
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff9d00&height=40&section=header&text=Featured%20Projects&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Featured Projects" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff9d00,100:000000&height=50&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Featured Projects" width="100%" />
 
 <table>
 <tr>
@@ -200,7 +201,7 @@ A school project idea to replace paper-based library records with a digital syst
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f6feb&height=40&section=header&text=GitHub%20Statistics&fontSize=20&fontColor=ffffff&fontAlign=8" alt="GitHub Statistics" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1f6feb,100:000000&height=50&section=header&text=GitHub%20Statistics&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="GitHub Statistics" width="100%" />
 
 <div align="center">
 
@@ -227,7 +228,7 @@ A school project idea to replace paper-based library records with a digital syst
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00f0ff&height=40&section=header&text=Currently%20Learning&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Currently Learning" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f0ff,100:000000&height=50&section=header&text=Currently%20Learning&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Currently Learning" width="100%" />
 
 - ⚛️ **React:** hooks, Context API, React Router, reusable components, project structure
 - 🟨 **JavaScript:** error handling, OOP, variables, and more practice through projects
@@ -236,7 +237,7 @@ A school project idea to replace paper-based library records with a digital syst
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ff4fd8&height=40&section=header&text=Developer%20Philosophy&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Developer Philosophy" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff4fd8,100:000000&height=50&section=header&text=Developer%20Philosophy&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Developer Philosophy" width="100%" />
 
 <div align="center">
 
@@ -248,13 +249,17 @@ A school project idea to replace paper-based library records with a digital syst
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39ff14&height=40&section=header&text=Other%20Interests&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Other Interests" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=50&section=header&text=Other%20Interests&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Other Interests" width="100%" />
+
+<div align="center">
 
 AI and AI-powered applications · modern web design · UI animations · creative digital projects · content creation · AI-generated media
 
+</div>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8957e5&height=40&section=header&text=Contact&fontSize=20&fontColor=ffffff&fontAlign=8" alt="Contact" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8957e5,100:000000&height=50&section=header&text=Contact&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Contact" width="100%" />
 
 <div align="center">
 
