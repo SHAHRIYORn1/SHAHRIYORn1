@@ -1,185 +1,162 @@
 # 👋 Hi, I'm Shahriyor Iskandarov
 
-### 🚀 Frontend Developer | React Learner | Future Full-Stack Developer
+### 💻 Frontend Developer in Progress · React Learner · Future Full-Stack Developer
 
-Hey there! 👋
+<div align="center">
 
-I'm **Shahriyor**, a frontend developer from Uzbekistan who enjoys building modern, responsive and useful web applications.
+<a href="https://github.com/SHAHRIYORn1">
+  <img src="https://img.shields.io/badge/GitHub-SHAHRIYORn1-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Focus-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Location-Uzbekistan-00C896?style=for-the-badge" />
 
-I'm currently focused on improving my **JavaScript and React** skills and working toward becoming a **Full-Stack Developer**.
-
----
-
-## 🧑‍💻 About Me
-
-- 🚀 Currently learning **React.js**
-- 📚 Improving my **JavaScript** skills
-- 🎨 Building responsive interfaces with **HTML & CSS**
-- ⚛️ Working with **React, Components, Hooks and Context**
-- 🔥 Practicing by building real projects
-- 🧠 Learning algorithms, arrays, objects, functions and loops
-- 💻 Interested in becoming a **Full-Stack Developer**
-- 🌱 Always trying to learn something new
-- 🇺🇿 Based in Uzbekistan
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 About Me
 
-### Frontend
+Hey there! I'm **Shahriyor**, a young developer from Uzbekistan passionate about creating modern, interactive and responsive web experiences.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+I'm currently learning React and strengthening my JavaScript fundamentals. My long-term goal is to become a Full-Stack Developer and build applications that solve real-world problems.
 
-### Tools
+* 🔭 Currently working on React projects
+* 🌱 Learning React Hooks, components and state management
+* 🎨 Building interfaces with HTML, CSS and JavaScript
+* 🧠 Practicing algorithms, arrays, objects and functions
+* ⚡ Interested in animations, UI/UX and interactive websites
+* 🎯 Focused on consistent learning and real-world projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## ⚛️ React
-
-I'm currently focusing on:
-
-- Components
-- Props
-- State
-- Events
-- Hooks
-- `useState`
-- `useEffect`
-- Context API
-- React Router
-- API integration
-- Local Storage
-- Reusable components
-- Project structure
+> "The best way to learn to code is to build something."
 
 ---
 
-## 🧠 JavaScript
+## 🛠️ Tech Stack
 
-Currently practicing:
+### Languages & Frontend
 
-- Variables
-- Data Types
-- Conditions
-- Loops
-- Functions
-- Arrays
-- Objects
-- DOM
-- Events
-- `map()`
-- `filter()`
-- `find()`
-- `reduce()`
-- `forEach()`
-- `for...of`
-- `for...in`
-- Async / Await
-- Fetch API
-- Local Storage
-- Error handling
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vite" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS_Animations-8B5CF6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-22C55E?style=flat-square" />
+</p>
 
 ---
 
-## 🚀 Featured Project
+## ⚛️ What I'm Learning
+
+| Technology   | Current Focus                                    |
+| :----------- | :----------------------------------------------- |
+| HTML5        | Semantic structure and accessibility             |
+| CSS3         | Flexbox, Grid, responsive layouts and animations |
+| JavaScript   | Arrays, objects, functions, loops and DOM        |
+| React        | Components, props, state and Hooks               |
+| Git & GitHub | Version control and project collaboration        |
+
+---
+
+## 🌟 Featured Projects
 
 ### 🍳 Retseplar Dunyosi
 
-A React-based recipe application designed to help people decide what to cook based on the ingredients they already have.
+**A recipe discovery application built with React.**
 
-### Features
+An application designed to help people decide what to cook based on the ingredients available at home.
 
-- 🤖 AI-powered recipe suggestions
-- 🥕 Ingredient-based recommendations
-- ❤️ Favorite recipes
-- 🛒 Required ingredients
-- 👨‍🍳 Step-by-step cooking instructions
-- 📱 Responsive design
-- ⚛️ Built with React
+**Planned features:**
 
-**Goal:** Make cooking easier by answering one simple question:
+* 🤖 AI-powered recipe recommendations
+* 🥕 Ingredient-based meal suggestions
+* ❤️ Favorite recipes
+* 🛒 Lists of required ingredients
+* 👨‍🍳 Step-by-step cooking instructions
+* 📱 Responsive interface
 
-> "What should I cook today?"
+### 📚 Library Management System
+
+A school library project concept designed to organize books and simplify library record-keeping.
+
+**Planned features:**
+
+* 📖 Book registration and numbering
+* 🔍 Search by book title, number or student
+* 🏫 Class-based access for teachers
+* 🛡️ Librarian administration
+* 📋 Digital book records
+
+### 🧩 JavaScript Practice Projects
+
+Small projects created to practice programming fundamentals:
+
+* 👤 Interactive Profile Card
+* 💬 Random Quote Generator
+* ✅ Todo Application
+* 🔐 Password Generator
+* 🧮 Calculator
 
 ---
 
-## 📚 What I'm Building
+## 📊 GitHub Statistics
 
-I'm learning by creating real projects instead of only watching tutorials.
+<div align="center">
 
-Some of my practice projects include:
+<a href="https://github.com/SHAHRIYORn1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAHRIYORn1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
 
-- 👤 Interactive Profile Card
-- 💬 Random Quote Generator
-- ✅ Todo Application
-- 🔐 Password Generator
-- 🧮 Calculator
-- 🍳 Recipe Application
-- 📚 Library Management System
-- 🌐 Personal Portfolio
+<a href="https://github.com/SHAHRIYORn1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHRIYORn1&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=SHAHRIYORn1&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📈 My Learning Journey
+## 🎯 My Roadmap
 
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-React
-  ↓
-Advanced React
-  ↓
-Backend
-  ↓
-Full-Stack Developer 🚀
-🎯 Current Goals
- Become confident with JavaScript
- Master React
- Build larger React applications
- Learn TypeScript
- Learn Node.js
- Learn Express.js
- Learn databases
- Learn authentication
- Build full-stack applications
- Become a Full-Stack Developer
-📊 GitHub Stats
+* [x] Learn HTML fundamentals
+* [x] Learn CSS fundamentals
+* [x] Start learning JavaScript
+* [x] Start learning React
+* [ ] Strengthen JavaScript fundamentals
+* [ ] Build complete React applications
+* [ ] Learn advanced React patterns
+* [ ] Learn TypeScript
+* [ ] Learn Node.js and Express
+* [ ] Work with databases and authentication
+* [ ] Build and deploy full-stack applications
 
-🔥 Contribution Streak
+---
 
-🧩 30 Days Coding Challenge
+## 🌐 Find Me on GitHub
 
-I'm also practicing frontend development through a 30-day coding challenge.
+<div align="center">
 
-Day 01  → Interactive Profile Card
-Day 07  → Random Quote Generator
-Day 10  → Todo Application
-Day 11  → Password Generator
-Day 12  → Calculator
-...
+<a href="https://github.com/SHAHRIYORn1">
+  <img src="https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-The goal is simple:
+<br /><br />
 
-Code every day → Build projects → Learn from mistakes → Improve.
+### 💻 Learn. Build. Debug. Repeat.
 
-💡 My Developer Mindset
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer" />
 
-Learn → Practice → Build → Break → Debug → Improve → Repeat 🔁
-
-I believe the best way to learn programming is by actually building things.
-
-📫 Connect With Me
-
-🚀 Thanks for visiting my profile!
-console.log("Keep coding 🚀");
+</div>
